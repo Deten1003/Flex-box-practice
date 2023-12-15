@@ -1,0 +1,29 @@
+.red-box{
+    background-color: red;
+    display: flex;
+    font-size: 30px;
+    color: white;
+   align-items: center;
+   justify-content:space-evenly;
+  
+}
+.blue-box{
+    background-color: blue;
+    display: flex;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    
+}
+.green-box{
+    background-color: green;
+    display: flex;
+    font-size: 30px;
+    color: white;
+    flex-direction: column-reverse;
+   
+    
+   align-items: center;
+}
